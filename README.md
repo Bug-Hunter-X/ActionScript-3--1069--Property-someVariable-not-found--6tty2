@@ -1,0 +1,1 @@
+This repository contains a simple ActionScript 3 bug demonstrating the common error 1069: Property someVariable not found.  The bug arises from attempting to access a variable that hasn't been properly declared or is out of scope. The solution demonstrates the correct way to declare and use the variable, ensuring the code compiles and runs without errors.
